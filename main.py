@@ -76,4 +76,4 @@ async def p6(ctx):
     await ctx.send(f'* Fogo Saiu Da Poção *')
 
 
-client.run('OTU3Njk4NDU1MDU5NDQzNzEz.YkCkMA.8mC_NOFjZyESIpVl9uUXET5rwHY')
+client.run('')
