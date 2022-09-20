@@ -1,11 +1,14 @@
+#By CapyparaCoding
 import discord
 from discord.ext import commands
 import random
 
-classic = ['Yes', 'No', 'Hohoho', 'bleh', '']
+classic = [
+    'Yes', 'No', 'Hohoho', 'bleh', ''
+]
 
-mod = [
-    'Yes', 'No', 'Hohoho', 'bleh', '', 'Dumb', '?', 'Oh', 'Ok',
+custom = [
+    'Yes', 'No', 'Hohoho', 'bleh', '', '?', 'Oh', 'Ok',
     '* DELETE NUMBER *'
 ]
 
@@ -77,3 +80,4 @@ async def p6(ctx):
 
 
 client.run('')
+#By CapyparaCoding
